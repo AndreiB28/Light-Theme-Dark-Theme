@@ -1,4 +1,0 @@
-let myCardBody = document.querySelectorAll(".card-body");  
-
-for (let index=0; index<myCardBody.length;index= index +1){
-    myCardBody[index].classList.toggle("bg-dark")};
